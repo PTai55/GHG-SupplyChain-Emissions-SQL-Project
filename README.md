@@ -1,1 +1,1 @@
-# Global-Debt-SQL-Project
+# GHG-SupplyChain-Emissions-SQL-Project
